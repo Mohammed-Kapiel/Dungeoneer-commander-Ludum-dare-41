@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Barracks
+  - Ground
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player Units
+  - Building
+  - Interactable
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1493389883
+    locked: 0
+  - name: Building Face
+    uniqueID: 2609757413
+    locked: 0
+  - name: Interactable
+    uniqueID: 3796978973
+    locked: 0
+  - name: Player Units
+    uniqueID: 3472297211
+    locked: 0
+  - name: Building Top
+    uniqueID: 1797501121
+    locked: 0
